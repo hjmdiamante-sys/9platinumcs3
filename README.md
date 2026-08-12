@@ -10,3 +10,6 @@
 ## Activities
 ### Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsPlatinumDIAMANTE.md)
+### Chinese Zodiac
+[View my Computational Thinking Exercise](q1/zodiacPlatinumDiamante.md)
+
