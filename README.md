@@ -9,4 +9,4 @@
 # Quarter 1
 ## Activities
 ### Computational Thinking Skills
-[View my Computational Thinking Exercise](ctskillsPlatinumDIAMANTE.md)
+[View my Computational Thinking Exercise](q1/ctskillsPlatinumDIAMANTE.md)
