@@ -15,6 +15,7 @@ Changes from my previous design:
 ## Visibility Decisions
 
 | Attribute | Data Type | Visibility | Reason |
+| ------------ | -------- | ----------------- |-----------|
 | artist | string | Public | The artist is basic info about the song. |
 | difficulty | string | Public | The difficulty is general information about the song |
 | level | int | Public | The level is basic information that describes the song's difficulty. |
