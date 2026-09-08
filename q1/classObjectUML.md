@@ -5,6 +5,7 @@ Song
 a song/musical chart, that can be played in PROJECT SEKAI: COLORFUL STAGE! (rhythm game)
 ## Properties
 | Property | Data Type | Description |
+| -|-| - |
 | Artist | string | The artist/creator of the song |
 | Difficulty | string | General difficulty of the song (Easy, Normal, Hard, Expert, Master, Append |
 | Level | int | A numerical value of the difficulty (5 - 38) |
