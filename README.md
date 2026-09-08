@@ -14,4 +14,5 @@
 [View my Chinese Zodiac Exercise](q1/zodiacPlatinumDiamante.md) 
 ### Class Object UML
 [View my OOP Activity - Part I](q1/classObjectUML.md)
-
+### Class Object UML
+[View my OOP Activity - Part II](q1/classAttributesMethods.md)
