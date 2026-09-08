@@ -13,6 +13,7 @@ a song/musical chart, that can be played in PROJECT SEKAI: COLORFUL STAGE! (rhyt
 | Availability  | boolean | Indicates if the song is ingame |
 ## Methods
 | Method | Description |
+| - | - |
 | Info | Prints all the provided properties | 
 | ChangeDifficulty(newDifficulty) | Changes the song difficulty to the provided difficulty | 
 | Play | prints a message that indicates the song is playing | 
