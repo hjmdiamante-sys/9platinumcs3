@@ -11,5 +11,7 @@
 ### Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsPlatinumDIAMANTE.md)
 ### Chinese Zodiac
-[View my Computational Thinking Exercise](q1/zodiacPlatinumDiamante.md)
+[View my Chinese Zodiac Exercise](q1/zodiacPlatinumDiamante.md) 
+### Class Object UML
+[View my OOP Activity - Part I](q1/classObjectUML.md)
 
