@@ -18,3 +18,7 @@
 [View my OOP Activity - Part I](q1/classObjectUML.md)
 ### Class Object UML
 [View my OOP Activity - Part II](q1/classAttributesMethods.md)
+### Class Object UML
+[View my OOP Activity - Part III](q1/classRelationships.md)
+### Class Object UML
+[View my OOP Activity - Part IV](q1/classAttributesMethods.md)
