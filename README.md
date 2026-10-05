@@ -12,6 +12,8 @@
 [View my Computational Thinking Exercise](q1/ctskillsPlatinumDIAMANTE.md)
 ### Chinese Zodiac
 [View my Chinese Zodiac Exercise](q1/zodiacPlatinumDiamante.md) 
+### ILA_OOP
+[View my OOP Activity - Part II](q1/ila_oop.md)
 ### Class Object UML
 [View my OOP Activity - Part I](q1/classObjectUML.md)
 ### Class Object UML
