@@ -22,3 +22,9 @@
 [View my OOP Activity - Part III](q1/classRelationships.md)
 ### Class Object UML
 [View my OOP Activity - Part IV](q1/classAttributesMethods.md)
+
+---
+# Quarter 2 
+## Activities
+### Study Guide 8 – Encapsulation
+[View my SG8 Activity](q2/sg8_encapsulation.py)
