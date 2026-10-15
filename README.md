@@ -28,3 +28,6 @@
 ## Activities
 ### Study Guide 8 – Encapsulation
 [View my SG8 Activity](q2/sg8_encapsulation.py)
+
+### Study Guide 9 – Encapsulation
+[View my SG9 Activity](q2/sg9_inheritance.py)
