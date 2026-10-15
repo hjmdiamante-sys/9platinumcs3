@@ -26,10 +26,10 @@ a1.set_account_number(12345) #Sets the properties according to object
 a1.set_balance(1000)
 
 print("Account 1")
-print(f"Account Number: {a1.get_account_number}")
-print(f"Balance: ₱{a1.get_balance:,.2f}")
+print(f"Account Number: {a1.account_number}")
+print(f"Balance: ₱{a1.balance:,.2f}")
 
 a1.set_balance(-100)
-print(f"Balance: ₱{a1.get_balance:,.2f}")
+print(f"Balance: ₱{a1.balance:,.2f}")
 
 
